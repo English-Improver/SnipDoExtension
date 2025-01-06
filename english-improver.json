@@ -1,0 +1,12 @@
+{
+    "name": "English Improver",
+    "identifier": "com.electron.app.english-improver.clip-extensions.snipdo",
+    "icon": "icon.png",
+    "actions": [
+        {
+            "title": "English Improver",
+            "icon": "icon.png",
+            "powershellFile": "english-improver.ps1"
+        }
+    ]
+}
